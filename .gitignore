@@ -154,3 +154,5 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+/.vs/CodeFirst.DiscussionBoard/v16/Server/sqlite3
+/.vs
